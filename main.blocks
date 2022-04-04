@@ -1,7 +1,7 @@
-<xml xmlns="https://developers.google.com/blockly/xml"><block type="pxt-on-start" id="xF4Ha,.VVN/yc+9@qbaO" x="0" y="0"><statement name="HANDLER"><block type="device_show_leds" id="F+8?^I@7D!je[%0,+^:V"><field name="LEDS">`
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="device_button_event" id="ikluR|r]2o5LfwFS[J}i" x="0" y="0"><field name="NAME">Button.A</field></block><block type="device_forever" id="^)|a_:Ml%dE/4kh8L!Uo" x="276" y="0"/><block type="device_gesture_event" id="6VSL3Zb?-kK_TeI/Tt]3" x="481" y="0"><field name="NAME">Gesture.Shake</field><statement name="HANDLER"><block type="device_show_number" id="fz;`1-t{JS=Ve,Q9w3Ku"><value name="number"><shadow type="math_number" id="k+/:tjyzTZem~rLpnst|"><field name="NUM">12</field></shadow></value></block></statement></block><block type="device_show_leds" id="hbm]T*jC+Q*F;C,l04_F" disabled="true" x="0" y="173"><field name="LEDS">`
         # # . . . 
         . # # # . 
-        . . . # . 
+        . # . # . 
         . . . # # 
         . . . . #
-        `</field></block></statement></block><block type="device_forever" id="W=)[m3sH1fSyZOS=,1Es" x="205" y="0"/><block type="device_gesture_event" id="MHYMn85kqs1,00Q},De]" x="469" y="65"><field name="NAME">Gesture.Shake</field><statement name="HANDLER"><block type="device_show_number" id="GAfuy*][Iz;PVlz0[U=D"><value name="number"><shadow type="math_number" id="2DNb}XWl?wchCGdZwmy["><field name="NUM">12</field></shadow></value></block></statement></block><block type="device_button_event" id="2NFu)i`$wB~_f}n^K_.~" x="281" y="267"><field name="NAME">Button.A</field></block></xml>
+        `</field></block></xml>
